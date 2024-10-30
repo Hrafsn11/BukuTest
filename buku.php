@@ -60,6 +60,7 @@ if (isset($_POST['submit_cari'])) {
     $cari = strtolower(trim($_POST['cari']));
     $hasilCari = array_filter($hasilBuku, function($item) use ($cari) {
         return (strpos(strtolower($item['judul']), $cari) !== false) || (strpos(strtolower($item['penulis']), $cari) !== false) || (strpos(strtolower($item['bulan']), $cari) !== false);
+        echo "hellow";
     });
 }
 ?>
