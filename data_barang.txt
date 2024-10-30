@@ -1,0 +1,1 @@
+[{"namaBarang":"maul","kategoriBarang":"anomali","hargaBarang":30000},{"namaBarang":"gole","kategoriBarang":"122","hargaBarang":132},{"namaBarang":"gole23","kategoriBarang":"122","hargaBarang":132}]

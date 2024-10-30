@@ -1,0 +1,1 @@
+[{"namaBarang":"kuasa","penulis":"11","bulan":"12"}]
